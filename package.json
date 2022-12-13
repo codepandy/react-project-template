@@ -157,6 +157,6 @@
   "devDependencies": {
     "@babel/plugin-proposal-decorators": "^7.10.1",
     "eslint-plugin-react-hooks": "^1.7.0",
-    "mocker-api": "^2.1.0"
+    "mocker-api": "^2.9.5"
   }
 }
